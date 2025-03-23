@@ -1,0 +1,24 @@
+,Value
+Dimensões,1536.0
+Média,-4.503312451171954e-06
+Desvio Padrão,0.025515518338002016
+Mínimo,-0.088767044
+Máximo,0.09108775
+Mediana,0.0004700986
+Quantidade de Zeros,0.0
+Quantidade de Números numpy,1536.0
+Assimetria Numpy,0.02016212866362392
+Assimetria stats,-0.04562320023478938
+Curtose stats,0.15800810183119207
+Q1 np,-0.017270619
+Q3 np,0.0168613875
+IQR stats,0.034132006500000006
+Amplitude np,0.17985479399999998
+Variância np,0.0006510416760569173
+Desvio Padrão np,0.025515518338002016
+Entropia stats,10.157587954655634
+Soma np,-0.0069170879250001205
+Soma Quadrática np,1.0000000455732332
+Soma Absoluta np,30.968876514703
+Soma Absoluta Quadrática np,1.0000000455732332
+Shapiro-Wilk p-value,0.6310987895045178
